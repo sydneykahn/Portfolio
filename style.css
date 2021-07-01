@@ -4,12 +4,10 @@ p {
 img {
     border:4px solid;
     border-color:rgb(216, 112, 147);
-    float: right;
 }
 #photo_of_me {
     color:mediumvioletred;
     font-weight: bold;
-    float: left;
 }
 .photo_of_me {
     background-color: rgb(241, 201, 214);
