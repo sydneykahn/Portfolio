@@ -4,11 +4,24 @@ p {
 img {
     border:4px solid;
     border-color:rgb(216, 112, 147);
+    float: right;
+}
+#photo_of_me {
+    color:mediumvioletred;
+    font-weight: bold;
+    float: left;
+}
+.photo_of_me {
+    background-color: rgb(241, 201, 214);
+    padding:4px;
 }
 h1 {
     font-size:36px;
     font-weight:bold;
-    color:rgb(216, 70, 147);
+    color:rgb(255, 15, 159);
+}
+#about {
+    color:rgb(255, 70, 162)
 }
 body {
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
@@ -21,15 +34,21 @@ body {
 .activity {
     color:rgb(184, 18, 178);
 }
+#activities_title {
+    color:rgb(158, 6, 153);
+    font-weight:bold;
+}
 .description {
     color:rgb(238, 109, 238); 
 }
 .activities {
-    background-color:lavenderblush
+    background-color:lavenderblush;
+    padding:4px;
 }
-.likes {
-    color:rgb(219, 57, 172)
+#likes {
+    color:rgb(223, 64, 178);
 }
 #like_title {
-    color:rgb(219, 0, 172)
+    color:rgb(219, 0, 172);
+    font-weight: bold;
 }
